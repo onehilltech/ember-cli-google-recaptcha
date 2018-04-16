@@ -1,5 +1,7 @@
 # ember-cli-google-recaptcha
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onehilltech/ember-cli-google-recaptcha.svg)](https://greenkeeper.io/)
+
 EmberJS add-on for using Google reCAPTCHA services
 
 [![npm version](https://img.shields.io/npm/v/ember-cli-google-recaptcha.svg?maxAge=2592000)](https://www.npmjs.com/package/ember-cli-google-recaptcha)
